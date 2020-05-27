@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Robo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+  <!--1. robot kol için-->
+  <name0>RobotArm0</name0>
+  <rotationGrab0>180</rotationGrab0>
+  <rotationDrop0>0</rotationDrop0>
+
+  <!--2. robot kol için-->
+  <name1>RobotArm1</name1>
+  <rotationGrab1>180</rotationGrab1>
+  <rotationDrop1>43</rotationDrop1>
+
+</Robo>
